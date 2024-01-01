@@ -1,0 +1,12 @@
+/*
+
+!/.gitignore
+!/Assets
+!/Documents
+!/Packages
+!/ProjectSettings
+
+.DS_Store
+*.DS_Store
+*~
+*~$*
