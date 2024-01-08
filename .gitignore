@@ -2,9 +2,10 @@
 
 !/.gitignore
 !/Assets
-!/Documents
+!/LICENSE
 !/Packages
 !/ProjectSettings
+!/README.md
 
 .DS_Store
 *.DS_Store
